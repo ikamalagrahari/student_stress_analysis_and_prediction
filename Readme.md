@@ -51,5 +51,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### 📬 Contact
-For queries, feel free to reach out via [your email/contact details].
+For queries, feel free to reach out via kamalagrahari2003@gmail.com.
 
